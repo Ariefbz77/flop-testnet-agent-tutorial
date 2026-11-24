@@ -1,0 +1,10 @@
+# Secrets -- never commit these.
+did-key.json
+wallet.json
+
+# Unpassworded backups -- never commit these.
+flop-testnet-backup-*.zip
+
+# Python bytecode.
+__pycache__/
+*.pyc
